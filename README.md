@@ -1,25 +1,5 @@
-# algorithm
-algorithm notes
+# notes
+Learn notes
 
-## sort
-2020-01
-
-## query
-
-## tree
-
-## graph
-
-## dynamic program
-
-## greedy
-
-## window slide
-
-## line tree
-
-## scan
-
-## 
-
-## 
+## ThinkTank
+2020-11-28，智库
